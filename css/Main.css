@@ -1,0 +1,17 @@
+div#IDSidebar{
+    float:left;
+    width:100px;
+    height:300px;
+}
+
+div#IDContent{
+    float:left;
+    width:100px;
+    height:auto;   
+}
+
+div#IDHeader{
+    width:100%;
+    height:30px;
+    background-color:antiquewhite;
+}
