@@ -1,7 +1,0 @@
-20220621
-1- File handle 
-2- Open File
-3- Save File 
-4- Update File
-5- Delete File 
-5 - Set as root 
