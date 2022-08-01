@@ -1,0 +1,18 @@
+<script src="../js/Editor.js"></script>
+<link rel="stylesheet" href="../css/Editor.css"> 
+
+<div id="IDSidebar">
+    <input type="file" id="File">       <!--  onclick="" javascript:Editor.EditorFileSelect() -->
+    <button id="EditorFileButton" onclick="getFile()">Load File</button>
+</div>
+
+<div id="IDContent">
+  
+    <div id="EditorContainer">
+        <div id="FileTabsContainer"></div>
+        <!--<textarea id="Editor" rows="30" cols="100"></textarea>-->
+        <div contenteditable="true" id="Editor"></div>
+    </div>
+    <div><button>Save</button></div>
+</div> 
+<div style="clear:both"></div>   
